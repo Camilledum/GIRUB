@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.9)  10 JAN 2017 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.9)  10 JAN 2017 14:46
 entering extended mode
 **./essaigit.tex
 (essaigit.tex
@@ -1631,26 +1631,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `essaigit.toc'.
 
 
-[1
+(essaigit.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (essaigit.aux) ) 
 Here is how much of TeX's memory you used:
- 11840 strings out of 493333
- 204754 string characters out of 3139189
- 247322 words of memory out of 3000000
- 15269 multiletter control sequences out of 15000+200000
- 12123 words of font info for 37 fonts, out of 3000000 for 9000
+ 11859 strings out of 493333
+ 204955 string characters out of 3139189
+ 249322 words of memory out of 3000000
+ 15281 multiletter control sequences out of 15000+200000
+ 15374 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,42p,10415b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\User
-s\Camille\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.
+s\Camille\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.
 pk> <C:\Users\Camille\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecbx1440.pk> <C:\Users\Camille\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\ecrm1200.pk> <C:\Users\Camille\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
-Output written on essaigit.pdf (1 page, 27714 bytes).
+00\ecrm1000.pk> <C:\Users\Camille\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecbx1000.pk> <C:\Users\Camille\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Camille\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Camille\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
+Output written on essaigit.pdf (1 page, 58278 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 186 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
