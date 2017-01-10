@@ -1,8 +1,32 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{xx}
 
-\bibitem{Crozet2009}
-M.~Crozet.
-\newblock Commerce et géographique : la mondialisation selon paul krugman.
-\newblock {\em Revue d’économie politique}, 119(4):513--534, 2009.
+\harvarditem{Cörvers \harvardand\ Hensen}{2003}{Corvers2003}
+Cörvers, F. \harvardand\ Hensen, M.  \harvardyearleft 2003\harvardyearright ,
+  `The regionalization of labour markets by modelling commuting behavior', {\em
+  43rd European Regional Science Association de Jyväskylä} .
+
+\harvarditem{Lee \harvardand\ McDonald}{2003}{Lee2003}
+Lee, B. \harvardand\ McDonald, J.  \harvardyearleft 2003\harvardyearright ,
+  `Determinants of commuting time and distance for seoul residents: the impact
+  of family status of the commuting women', {\em Urban Studies} {\bf
+  40}(7),~1283--1302.
+
+\harvarditem{Mougenot}{1985}{Mougenot1985}
+Mougenot, C.  \harvardyearleft 1985\harvardyearright , `Le problème des
+  migrations alternantes', {\em L’espace Géographique} (3),~206--212.
+
+\harvarditem{Rouwendal}{1999}{Rouwendal1999}
+Rouwendal, J.  \harvardyearleft 1999\harvardyearright , `Spatial job search and
+  commuting distances', {\em Regional Science and Urban Economics}
+  (29),~491--517.
+
+\harvarditem{Van~den Berg \harvardand\ Gorter}{1997}{Gorter1997}
+Van~den Berg, G. \harvardand\ Gorter, C.  \harvardyearleft
+  1997\harvardyearright , `Job search and commuting time', {\em Journal of
+  Business and Economic Statistics} {\bf 15}(2),~269--281.
+
+\harvarditem{White}{1986}{White1986}
+White, M.  \harvardyearleft 1986\harvardyearright , `Sex differences in urban
+  commuting patterns', {\em American Economic Review} {\bf 76}(2),~368--372.
 
 \end{thebibliography}
