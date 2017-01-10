@@ -1,1 +1,4 @@
 \select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}D\IeC {\'e}terminants th\IeC {\'e}oriques}{1}
+\contentsline {section}{\numberline {3}Mod\IeC {\`e}le \IeC {\'e}conom\IeC {\'e}trique}{1}
